@@ -4,3 +4,4 @@ update #2
 3rd change! from bug-fix branch.
 4th change! from bug-fix branch.
 merged for commit #5
+6th change! from bug-fix branch. 
